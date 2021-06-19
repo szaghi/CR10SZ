@@ -1,6 +1,6 @@
 ### CR10SZ, a modified CR10S 3D printer (aka cariola 2.0)
 
-Creality CR10S is a decent 3D printer with large volume, but to obtain good quality the printing speed must be kept very low. Moreover, its usage is not straightforward, in particular for newbies (my CR10S is going to be a present of a friend of mine that has not any 3D printing experience). As a consequence, I highly modify my CR10S in order to improve speed printing (maintaining good quality) and easyness of usage.
+Creality CR10S is a decent 3D printer with large volume, but to obtain good quality the printing speed must be kept very low. Moreover, its usage is not straightforward, in particular for newbies (my CR10S is going to be a present for a friend of mine without any 3D printing experience). As a consequence, I modify my CR10S in order to improve speed printing (maintaining good quality) and easyness of usage.
 
 The modifications involve both mechanics and electronics.
 
@@ -32,4 +32,4 @@ Many mods are taken from thingiverse and their STL are included here only for th
 
 + `blend/CR10SZ.blend` contains all mods, refer to it also for the assembly;
 + mods taken from thingiverse:
-   + SKR mount
+   + SKR mount https://www.thingiverse.com/thing:4047923
